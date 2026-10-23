@@ -1,0 +1,11 @@
+name = "flight_monitor"
+description = "flight monitor"
+version = "0.1.0-dev"
+
+authors = ["Eduardo"]
+maintainers = ["Eduardo <example@example.com>"]
+licenses = "MIT"
+website = ""
+tags = []
+
+executables = ["flight_monitor"]

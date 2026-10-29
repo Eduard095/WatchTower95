@@ -1,7 +1,7 @@
 with Ada.Text_IO;
 use Ada.Text_IO;
 
-procedure Flight_monitor is
+procedure Practice is
    A,B : Integer;
 
    begin
@@ -13,4 +13,4 @@ procedure Flight_monitor is
    else 
       Ada.Text_IO.Put_Line (Integer'Image(A) & " is NOT equal to" & Integer'Image(B));
    end if;
-end Flight_monitor;
+end Practice;

@@ -11,7 +11,7 @@ tags = []
 executables = ["flight_monitor"]
 
 [[depends-on]]
-aws = "^25.2.0"
+gnatcoll = "^26.0.0"
 
 [[depends-on]]
-gnatcoll = "^25.0.0"
+utilada_curl = "^2.9.0"
